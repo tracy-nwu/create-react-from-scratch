@@ -4,7 +4,6 @@ const App = () => {
   return (
     <div>
       <h1>hello world</h1>
-      <p> fsdfsa 2</p>
     </div>
   );
 };
